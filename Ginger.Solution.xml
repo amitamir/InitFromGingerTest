@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GingerRepositoryItem><Header ItemGuid="4218872c-ff7f-43c2-82a3-f60ea9589bfb" ItemType="Solution" CreatedBy="amitami" Created="202207071636" GingerVersion="4.4.0.0" Version="2" LastUpdateBy="amitami" LastUpdate="202207071636" />
+<Solution EncryptedValidationString="2/fb2jx7rxnjUNRRamblMg==" Guid="4218872c-ff7f-43c2-82a3-f60ea9589bfb" Name="SolutioG212312" ParentGuid="00000000-0000-0000-0000-000000000000">
+<ApplicationPlatforms>
+<ApplicationPlatform AppName="MyWebApp" Guid="40b802a3-cb94-4230-93fe-157baa3e2de3" ParentGuid="00000000-0000-0000-0000-000000000000" Platform="Web" />
+</ApplicationPlatforms>
+
+<ApplitoolsConfiguration>
+<ApplitoolsConfiguration Guid="ce4c7d5b-b89c-419b-bfa2-5d73f745759a" ParentGuid="00000000-0000-0000-0000-000000000000" />
+</ApplitoolsConfiguration>
+
+<ExecutionLoggerConfigurationSetList>
+<ExecutionLoggerConfiguration DataPublishingPhase="PostExecution" DeleteLocalDataOnPublish="No" ExecutionLoggerConfigurationExecResultsFolder="~\ExecutionResults" ExecutionLoggerConfigurationIsEnabled="True" ExecutionLoggerConfigurationMaximalFolderSize="250" Guid="59dbf764-6db2-4e1c-965b-6e0398f99c24" IsSelected="True" ParentGuid="00000000-0000-0000-0000-000000000000" PublishLogToCentralDB="No" SelectedDataRepositoryMethod="LiteDB" Seq="0" />
+</ExecutionLoggerConfigurationSetList>
+
+<HTMLReportsConfigurationSetList>
+<HTMLReportsConfiguration Guid="13372dea-f31b-42e6-9698-0aaeb3b5bfe9" HTMLReportConfigurationMaximalFolderSize="0" HTMLReportsFolder="~\HTMLReports" HTMLReportTemplatesSeq="1" IsSelected="True" ParentGuid="00000000-0000-0000-0000-000000000000" Seq="0" />
+</HTMLReportsConfigurationSetList>
+
+<SealightsConfiguration>
+<SealightsConfiguration Guid="a15355a9-5b74-4b61-ae36-f4ad31261225" ParentGuid="00000000-0000-0000-0000-000000000000" SealightsLog="No" SealightsReportedEntityLevel="BusinessFlow" />
+</SealightsConfiguration>
+
+<VRTConfiguration>
+<VRTConfiguration FailActionOnCheckpointMismatch="Yes" Guid="07f24257-ccbe-4348-8c6e-8021635f00ff" ParentGuid="00000000-0000-0000-0000-000000000000" />
+</VRTConfiguration>
+</Solution></GingerRepositoryItem>
